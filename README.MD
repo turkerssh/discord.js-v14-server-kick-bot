@@ -2,7 +2,7 @@
 
 1. Clone this repository:
     ```sh
-    git clone https://github.com/turkerwtf/discord.js-v14-server-kick-bot.git
+    git clone https://github.com/turkwr/discord.js-v14-server-kick-bot.git
     ```
 2. Install the required packages:
     ```sh
